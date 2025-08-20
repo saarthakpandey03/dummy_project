@@ -1,0 +1,25 @@
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore VS Code settings and extensions
+.vscode/
+.vscode-test/
+
+# Ignore log files and system files
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore extension-related files
+.vscode/extensions/
+.vscode-insiders/
+
